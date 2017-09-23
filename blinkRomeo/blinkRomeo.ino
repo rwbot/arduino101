@@ -1,3 +1,10 @@
+/***
+ * blink
+ * Tutorial on blinking LED pin 13 on DFRobot Romeo Arduino
+ * @rwbot
+ * v1.1
+ */
+
 /*Blink - Turns on an LED on for one second, 
 then off for one second, repeatedly. */
 

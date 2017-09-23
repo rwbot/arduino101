@@ -1,3 +1,10 @@
+/***
+ * oneMotorIntro
+ * Tutorial on using one motor with a DFRobot Romeo arduino
+ * @rwbot
+ * v1.1
+ */
+ 
 //Motor pin configuration
 int directionPin = 4;       //Pin controlling Left motor direction
 int speedPin = 5;           //Pin controlling Left motor speed
